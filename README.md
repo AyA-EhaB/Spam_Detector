@@ -73,8 +73,6 @@ pip install -r requirements.txt
 
 ##  Acknowledgement
 
-If you use the dataset or refer to this project in your research, please cite:
-
 > Almeida, T.A., Gómez Hidalgo, J.M., Yamakami, A. (2011). *Contributions to the Study of SMS Spam Filtering.*
 
 ---
